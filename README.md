@@ -21,10 +21,11 @@
 
 ### Requirements.
 Please make sure that the **P01-raw.fif** file can be found in a folder data in the same directory as this notebook, i.e.
-
+```
 project/
 │   readme.md
 │   this_notebook.ipynb
 │
 └───data/
         P01-raw.fif
+```
