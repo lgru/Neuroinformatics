@@ -1,8 +1,8 @@
 # Neuroinformatics Project Group 3
 
-Students: Elias Düker, Leon Grund, Jakob Prager, Veronika Pressler
-Course: Neuroinformatics: Machine Learning for Neuronal Data Analysis (2022W)
-Deadline: January 26, 2023
+- Students: *Elias Düker (11821655), Leon Grund (01407726), Jakob Prager (01642973), Veronika Pressler (00306514)*
+- Course: *Neuroinformatics: Machine Learning for Neuronal Data Analysis (2022W)*
+- Deadline: *January 26, 2023*
 
 
 ### Libraries.
