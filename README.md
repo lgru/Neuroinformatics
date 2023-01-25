@@ -5,21 +5,10 @@
 - Deadline: *January 26, 2023*
 
 
-### Libraries.
-- `numpy`: v1.18.5
-- `matplotlib`: v3.2.2
-- `seaborn`: v0.10.1
-- `mne`: v1.2.3
-- `sklearn`: v0.23.1
-- `pyriemann`: v0.3
-
-
 ### Dataset.
 `OpenMIIR RawEEG v1.0`
 *Source: http://bmi.ssc.uwo.ca/OpenMIIR-RawEEG_v1/*
 
-
-### Requirements.
 Please make sure that the **P01-raw.fif** file can be found in a folder data in the same directory as the notebook, i.e.
 ```
 group3_folder/
@@ -29,3 +18,12 @@ group3_folder/
 └───data/
         P01-raw.fif
 ```
+
+
+### Requirements.
+- `numpy`: v1.18.5
+- `matplotlib`: v3.2.2
+- `seaborn`: v0.10.1
+- `mne`: v1.2.3
+- `sklearn`: v0.23.1
+- `pyriemann`: v0.3
